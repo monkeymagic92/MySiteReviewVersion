@@ -8,3 +8,13 @@
  (전체 글 리스트 뿌려주는 메소드 만들기 ( 조인사용 ))
 
 2. 값뿌려준뒤 css 꾸며주기 
+
+
+
+BoardCmtDAO 메소드 selCmtlist 메소드 만들기
+
+detail 서블릿 doGet 메소드 완성하기
+
+boardCmt 서블릿 doGet 메소드 완성하기
+
+detail.jsp 페이지 forEach 부분 완성하기 
